@@ -4,4 +4,4 @@
 
 This is the spockbots web page
 
-Example link: [Google](http:google.com)
+Go Fund Me Page: https://www.gofundme.com/first-lego-league-spockbots
