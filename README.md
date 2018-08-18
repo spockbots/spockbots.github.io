@@ -1,4 +1,6 @@
-# Spockbots [edit](https://github.com/spockbots/spockbots.github.io)
+# Spockbots 
+
+[edit](https://github.com/spockbots/spockbots.github.io)
 
 This is the spockbots web page
 
