@@ -5,3 +5,5 @@
 This is the spockbots web page
 
 Go Fund Me Page: <https://www.gofundme.com/first-lego-league-spockbots>
+
+![](https://d2g8igdw686xgo.cloudfront.net/27494064_1517778233.4338.jpg)
