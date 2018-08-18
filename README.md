@@ -4,4 +4,4 @@
 
 This is the spockbots web page
 
-Go Fund Me Page: https://www.gofundme.com/first-lego-league-spockbots
+Go Fund Me Page: <https://www.gofundme.com/first-lego-league-spockbots>
